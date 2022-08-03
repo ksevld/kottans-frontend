@@ -32,8 +32,8 @@ This is my first communication on github.
          ![template](*.PNG)
        </details>
        
-  - [ ]  Створіть репозиторій та назвіть його kottans-frontend
-  - [ ]  Створіть README.md для репозиторію.
+  - [x]  Створіть репозиторій та назвіть його kottans-frontend
+  - [x]  Створіть README.md для репозиторію.
   - [ ]  Надішліть pull-request сюди Kottans/mock-repo пропонуючи зміни
       
 - [ ] Linux CLI and Networking
