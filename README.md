@@ -13,7 +13,7 @@ This is my first communication on github.
 - [ ] Git Basics
 
   - [ ] Introduction to Git and GitHub
-   - [ ] week 1
+   - [x] week 1
       <details> <summary> what is done </summary>
         ![template](*.PNG)
       </details>
@@ -36,6 +36,6 @@ This is my first communication on github.
   - [x]  Створіть README.md для репозиторію.
   - [ ]  Надішліть pull-request сюди Kottans/mock-repo пропонуючи зміни
       
-- [ ] Linux CLI and Networking
+- [x] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 
