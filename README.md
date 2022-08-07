@@ -19,20 +19,20 @@ This is my first communication on github.
      ![screenshot](Images/week_1.PNG)
      
       </details>
-   - [ ] week 2
+   - [x] week 2
       <details> 
       <summary> what is done </summary>
       
       ![screenshot](Images/week_2.PNG)
       </details>   
       
- - [ ] learngitbranching.js.org:
-    - [ ] Основи: Introduction Sequence
+ - [x] learngitbranching.js.org:
+    - [x] Основи: Introduction Sequence
        <details> <summary> what is done </summary>
        
          ![screenshot](*.PNG)
        </details>
-    - [ ] Віддалені репозиторії: Push & Pull – віддалені репозиторії в Git!
+    - [x] Віддалені репозиторії: Push & Pull – віддалені репозиторії в Git!
        <details> <summary> what is done </summary>
        
          ![screenshot](*.PNG)
