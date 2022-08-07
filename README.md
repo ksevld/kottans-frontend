@@ -15,21 +15,27 @@ This is my first communication on github.
   - [x] Introduction to Git and GitHub
    - [x] week 1
       <details> <summary> what is done </summary>
-        ![template](*.PNG)
+      
+     ![screenshot](Images/week_1.PNG)
+     
       </details>
    - [ ] week 2
-      <details> <summary> what is done </summary>
-        ![template](*.PNG)
+      <details> 
+      <summary> what is done </summary>
+      
+      ![screenshot](Images/week_2.PNG)
       </details>   
       
  - [ ] learngitbranching.js.org:
     - [ ] Основи: Introduction Sequence
        <details> <summary> what is done </summary>
-         ![template](*.PNG)
+       
+         ![screenshot](*.PNG)
        </details>
     - [ ] Віддалені репозиторії: Push & Pull – віддалені репозиторії в Git!
        <details> <summary> what is done </summary>
-         ![template](*.PNG)
+       
+         ![screenshot](*.PNG)
        </details>
        
   - [x]  Створіть репозиторій та назвіть його kottans-frontend
