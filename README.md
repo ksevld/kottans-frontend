@@ -10,9 +10,9 @@ This is my first communication on github.
 
 ### General
 
-- [ ] Git Basics
+- [x] Git Basics
 
-  - [ ] Introduction to Git and GitHub
+  - [x] Introduction to Git and GitHub
    - [x] week 1
       <details> <summary> what is done </summary>
         ![template](*.PNG)
