@@ -30,7 +30,7 @@ This is my first communication on github.
     - [x] Основи: Introduction Sequence
        <details> <summary> what is done </summary>
        
-         ![screenshot](*.PNG)
+         ![screenshot](Images/Основы_Git.PNG)
        </details>
     - [x] Віддалені репозиторії: Push & Pull – віддалені репозиторії в Git!
        <details> <summary> what is done </summary>
@@ -40,7 +40,7 @@ This is my first communication on github.
        
   - [x]  Створіть репозиторій та назвіть його kottans-frontend
   - [x]  Створіть README.md для репозиторію.
-  - [ ]  Надішліть pull-request сюди Kottans/mock-repo пропонуючи зміни
+  - [x]  Надішліть pull-request сюди Kottans/mock-repo пропонуючи зміни
       
 - [x] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
