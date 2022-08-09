@@ -30,7 +30,7 @@ This is my first communication on github.
     - [x] Основи: Introduction Sequence
        <details> <summary> what is done </summary>
        
-         ![screenshot](Images/Introduction Sequence.PNG)
+         ![screenshot](Images/Introduction_Sequence.PNG)
        </details>
     - [x] Віддалені репозиторії: Push & Pull – віддалені репозиторії в Git!
        <details> <summary> what is done </summary>
