@@ -45,3 +45,6 @@ This is my first communication on github.
 - [x] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 
+ ## Linux CLI, and HTTP
+ 
+ Screenshots [here](https://github.com/ksevld/kottans-frontend/tree/main/task_linux_cli)
