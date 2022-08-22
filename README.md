@@ -48,3 +48,8 @@ This is my first communication on github.
  ## Linux CLI, and HTTP
  
  Screenshots [here](https://github.com/ksevld/kottans-frontend/tree/main/task_linux_cli)
+
+## Git Collaboration
+
+ Screenshots [here](https://github.com/ksevld/kottans-frontend/tree/main/task_git_collaboration)
+ 
