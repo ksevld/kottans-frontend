@@ -43,7 +43,7 @@ This is my first communication on github.
   - [x]  Надішліть pull-request сюди Kottans/mock-repo пропонуючи зміни
       
 - [x] Linux CLI and Networking
-- [ ] VCS (hello gitty), GitHub and Collaboration
+- [x] VCS (hello gitty), GitHub and Collaboration
 
  ## Linux CLI, and HTTP
  
@@ -53,3 +53,6 @@ This is my first communication on github.
 
  Screenshots [here](https://github.com/ksevld/kottans-frontend/tree/main/task_git_collaboration)
  
+ ## Intro to HTML and CSS
+ 
+ Screenshots [here](https://github.com/ksevld/kottans-frontend/tree/main/task_html_css_intro)
