@@ -56,3 +56,8 @@ This is my first communication on github.
  ## Intro to HTML and CSS
  
  Screenshots [here](https://github.com/ksevld/kottans-frontend/tree/main/task_html_css_intro)
+ 
+ ## Responsive Web Design
+ 
+  Screenshots [here](https://github.com/ksevld/kottans-frontend/tree/main/task_responsive_web_design)
+  
